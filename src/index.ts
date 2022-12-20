@@ -1,1 +1,3 @@
-console.log("Hello World!");
+import anwb from "./adapters/anwb";
+
+anwb();
